@@ -1,6 +1,6 @@
 ### Hi!! I'm Jaxi :)
 
-I love making Wii homebrew and occasionally other projects. I have pinned the 6 repositories I am most proud of below. In my description, I have pinned my personal landing page and my blog.
+I love making Wii homebrew, Docker containers for self-hosted software, and occasionally other projects. I have pinned the 6 repositories I am most proud of below. In my description, I have pinned my personal landing page and my blog.
 
 You should also check out my [shell scripts](https://github.com/cmyksoda/Shell-Scripts) and [Wii forwarder channels](https://github.com/cmyksoda/Wii-Forwarders)!
 
