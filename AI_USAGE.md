@@ -9,11 +9,11 @@ All creative work, like the images in my projects, the posts on my blog, and the
 My projects fall into three tiers of AI usage:
 
 - **AI-Led:** Projects beyond my ability to fully understand or make technical decisions about. My main role here is creative designer and playtester.
-    - Applies to [Tanka](https://github.com/cmyksoda/Tanka).
+    - Applies to SMG-3DS, [Tanka](https://github.com/cmyksoda/Tanka).
 - **AI-Assisted:** Projects I fully or nearly fully understand, where I'm comfortable in my role as the developer. Most of the code is generated, but my input and ability to help are far greater than on AI-Led projects.
     - Applies to [Animal Crossing Desktop Clock Plasmoid](https://github.com/cmyksoda/AC-Desktop-Clock-Plasmoid), [Bird & Beans GX](https://github.com/cmyksoda/Bird-and-Beans-GX), [BS-X GX](https://github.com/cmyksoda/BS-X-GX), [bsx-station](https://github.com/cmyksoda/bsx-station), [Coaster Ranker](https://github.com/cmyksoda/Coaster-Ranker), [Krillion - Zen Edition](https://github.com/cmyksoda/Krillion-Zen), [my Wii forwarder channels](https://github.com/cmyksoda/Wii-Forwarders), [VectrexWii](https://github.com/cmyksoda/vectrexwii), and [WiiEAS](https://github.com/cmyksoda/WiiEAS).
 - **Human-Led:** Projects I could have written entirely on my own. AI may have written some of the code or only reviewed it, but I'm fully in charge of them.
     - Applies to [fsatfetch](https://github.com/cmyksoda/fsatfetch), [my blog](https://github.com/cmyksoda/blog), [my landing page](https://github.com/cmyksoda/me), [my shell scripts](https://github.com/cmyksoda/Shell-Scripts), [Sump Stream](https://github.com/cmyksoda/Sump-Stream), and [WiiRadio Stream Bridge](https://github.com/cmyksoda/wiiradio-stream-bridge).
 
 ---
-*Last updated: Oct. 3, 2026*
+*Last updated: Oct. 5, 2026*
