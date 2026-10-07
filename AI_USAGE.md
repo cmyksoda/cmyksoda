@@ -1,6 +1,6 @@
 # AI Usage Statement
 
-I know many people are apprehensive about using software made with AI assistance, so I'm writing this to be as transparent as I can about how I use it. I use Claude Code, and occasionally Codex, in almost everything I make. Most of my work wouldn't be possible without AI. I have no formal training in programming, and I couldn't do what I love without its help.
+I know many people are apprehensive about using software made with AI assistance, so I'm writing this to be as transparent as I can about how I use it. I use Claude Code, and occasionally Codex, in almost everything I make. Most of my work wouldn't be possible for me to make without AI. I have no formal training in programming, and I couldn't do what I love without its help.
 
 That said, I take full responsibility for everything I publish, and I work hard to understand how my software works. I'm committed to not releasing sloppy or unoptimized software, and to fixing bugs when they're found. I learned this one the hard way, so before publishing a finished release, I make sure my code is formatted for legibility, is as free of dead code as I can tell, and has only clean, necessary comments. Whatever tools I use, the quality of the result is what matters most to me.
 
@@ -16,4 +16,4 @@ My projects fall into three tiers of AI usage:
     - Applies to [fsatfetch](https://github.com/cmyksoda/fsatfetch), [my blog](https://github.com/cmyksoda/blog), [my landing page](https://github.com/cmyksoda/me), [my shell scripts](https://github.com/cmyksoda/Shell-Scripts), [Sump Stream](https://github.com/cmyksoda/Sump-Stream), and [WiiRadio Stream Bridge](https://github.com/cmyksoda/wiiradio-stream-bridge).
 
 ---
-*Last updated: Oct. 5, 2026*
+*Last updated: Oct. 6, 2026*
