@@ -1,19 +1,14 @@
 # AI Usage Statement
 
-I know many people are apprehensive about using software made with AI assistance, so I'm writing this to be as transparent as I can about how I use it. I use Claude Code, and occasionally Codex, in almost everything I make. Most of my work wouldn't be possible for me to make without AI. I have no formal training in programming, and I couldn't do what I love without its help.
+*Disclaimer: I have removed the tiered system previously used on this page. Trying to fit fluid development workflows into rigid, arbitrary labels has caused more confusion than clarity, as everyone defines these terms differently. Going forward, I am just going to let the repositories speak for themselves. This notice will be removed shortly.*
 
-That said, I take full responsibility for everything I publish, and I work hard to understand how my software works. I'm committed to not releasing sloppy or unoptimized software, and to fixing bugs when they're found. I learned this one the hard way, so before publishing a finished release, I make sure my code is formatted for legibility, is as free of dead code as I can tell, and has only clean, necessary comments. Whatever tools I use, the quality of the result is what matters most to me.
+I know many people are apprehensive about using software made with AI assistance, so I'm writing this to be as transparent as I can about how I use it. I use Claude Code, and occasionally Codex, in almost everything I make. Most of my work wouldn't be possible for me to make without AI, as I have no formal training in programming. I couldn't do what I love without its help.
 
-All creative work, like the images in my projects, the posts on my blog, and the writing on my landing page, is entirely my own.
+That said, I take full responsibility for everything I publish, and I work hard to understand how my software works. I'm committed to not releasing sloppy or unoptimized software, and to fixing bugs when they're found. I learned this one the hard way, so before publishing a finished release, I make sure my code is formatted for legibility, is as free of dead code as I can tell, and has only clean, necessary comments.
 
-My projects fall into three tiers of AI usage:
+Whatever tools I use, the quality of the result is what matters most to me. Throughout my catalog, AI is used to varying degrees. Most of the time, the workload between myself and my tools feels evenly split, though projects in fields I'm unfamiliar with naturally lean more heavily on AI assistance, while some hardly use it at all. Because there is no universal way to measure or label that balance, I will simply note in a project's repository if AI use was particularly heavy, and otherwise let the code speak for itself.
 
-- **AI-Led:** Projects beyond my ability to fully understand or make technical decisions about. My main role here is creative designer and playtester.
-    - Applies to [SMG-3DS](https://github.com/cmyksoda/SMG-3DS) and [Tanka](https://github.com/cmyksoda/Tanka).
-- **AI-Assisted:** Projects I fully or nearly fully understand, where I'm comfortable in my role as the developer. Most of the code is generated, but my input and ability to help are far greater than on AI-Led projects.
-    - Applies to [Animal Crossing Desktop Clock Plasmoid](https://github.com/cmyksoda/AC-Desktop-Clock-Plasmoid), [ASCII Odyssey](https://github.com/cmyksoda/ASCII-Odyssey), [Bird & Beans GX](https://github.com/cmyksoda/Bird-and-Beans-GX), [BS-X GX](https://github.com/cmyksoda/BS-X-GX), [bsx-station](https://github.com/cmyksoda/bsx-station), [Coaster Ranker](https://github.com/cmyksoda/Coaster-Ranker), [Krillion - Zen Edition](https://github.com/cmyksoda/Krillion-Zen), [my Wii forwarder channels](https://github.com/cmyksoda/Wii-Forwarders), [Paper Airplane Chase GX](https://github.com/cmyksoda/Paper-Airplane-Chase-GX), [VBoy Color GX](https://github.com/cmyksoda/vbcgx), [VectrexWii](https://github.com/cmyksoda/vectrexwii), [WiiCam](https://github.com/cmyksoda/WiiCam), and [WiiEAS](https://github.com/cmyksoda/WiiEAS).
-- **Human-Led:** Projects I fully understand and could have written on my own, given time to learn the parts that were new to me. AI may have written some of the code or only reviewed it, but I'm fully in charge of them.
-    - Applies to [fsatfetch](https://github.com/cmyksoda/fsatfetch), [my blog](https://github.com/cmyksoda/blog), [my landing page](https://github.com/cmyksoda/me), [my shell scripts](https://github.com/cmyksoda/Shell-Scripts), [Sump Stream](https://github.com/cmyksoda/Sump-Stream), and [WiiRadio Stream Bridge](https://github.com/cmyksoda/wiiradio-stream-bridge).
+All creative work, like the images in my projects, the posts on my blog, and the writing on my landing page, is entirely my own. There will never be any image, video, or audio generation models used in anything I create.
 
 ---
-*Last updated: Oct. 21, 2026*
+*Last updated: Oct. 25, 2026*
