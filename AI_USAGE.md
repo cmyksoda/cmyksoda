@@ -9,4 +9,4 @@ Whatever tools I use, the quality of the result is what matters most to me. Thro
 All creative work, like the images in my projects, the posts on my blog, and the writing on my landing page, is entirely my own. There will never be any image, video, or audio generation models used in anything I create.
 
 ---
-*Last updated: Oct. 25, 2026*
+*Last updated: Oct. 29, 2026*
