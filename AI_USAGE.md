@@ -1,7 +1,5 @@
 # AI Usage Statement
 
-*Disclaimer: I have removed the tiered system previously used on this page. Trying to fit fluid development workflows into rigid, arbitrary labels has caused more confusion than clarity, as everyone defines these terms differently. Going forward, I am just going to let the repositories speak for themselves. This notice will be removed shortly.*
-
 I know many people are apprehensive about using software made with AI assistance, so I'm writing this to be as transparent as I can about how I use it. I use Claude Code, and occasionally Codex, in almost everything I make. Most of my work wouldn't be possible for me to make without AI, as I have no formal training in programming. I couldn't do what I love without its help.
 
 That said, I take full responsibility for everything I publish, and I work hard to understand how my software works. I'm committed to not releasing sloppy or unoptimized software, and to fixing bugs when they're found. I learned this one the hard way, so before publishing a finished release, I make sure my code is formatted for legibility, is as free of dead code as I can tell, and has only clean, necessary comments.
