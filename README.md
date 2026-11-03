@@ -2,7 +2,7 @@
 
 I love making Wii homebrew, Docker containers for self-hosted software, and occasionally other projects. I've pinned the 6 repositories I'm most proud of below. You can also find me on my [landing page](https://cmyksoda.cc/) and [my blog](https://blog.cmyksoda.cc/)!
 
-You should check out my [shell scripts](https://github.com/cmyksoda/Shell-Scripts) and [Wii forwarder channels](https://github.com/cmyksoda/Wii-Forwarders) too!
+If you like what I do, please consider supporting me on [Ko-fi](https://ko-fi.com/cmyksoda). ❤️
 
 ---
 
