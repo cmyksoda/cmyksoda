@@ -1,6 +1,6 @@
 ### Hi!! I'm Jaxi :)
 
-I love making Wii homebrew, Docker containers for self-hosted software, and occasionally other projects. I've pinned the 6 repositories I'm most proud of below. You can also find me on my [landing page](https://cmyksoda.cc/) and [my blog](https://blog.cmyksoda.cc/)!
+I love making Wii homebrew, Docker containers for self-hosted software, and the occasional other project. I've pinned the 6 repositories I'm most proud of below. You can also find me on [my website](https://cmyksoda.cc/) and [my blog](https://blog.cmyksoda.cc/)!
 
 If you like what I do, please consider supporting me on [Ko-fi](https://ko-fi.com/cmyksoda). ❤️
 
